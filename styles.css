@@ -1,0 +1,13 @@
+header{
+    background-color: #B00C17;
+}
+
+footer{
+    background-color: #B00C17;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+}
